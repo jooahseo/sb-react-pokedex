@@ -1,0 +1,13 @@
+
+.poke-card {
+    text-align: center;
+    margin:  0 auto;
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.9);
+    white-space: nowrap;
+}
